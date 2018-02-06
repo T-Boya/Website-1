@@ -1,0 +1,19 @@
+h1 {
+  color: #092D5D;
+  text-align: right;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+
+ul {
+line-height: 40px
+}
+
+body {
+  background-color: #78D5F1
+}
